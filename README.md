@@ -1,4 +1,4 @@
-# Gustavo-Hokumura-Borges
+# Fecart IA 2024
 Projeto Fecart: IA 2024
 Utilizando o Makey Makey, para simular um controle, A FECART IA desenvolveu um jogo, para abri-lo você deve baixar o arquivo 
 "Runnin'bots.c3p" e abrir o site do Construct 3, no site você 
